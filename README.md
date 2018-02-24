@@ -1,25 +1,26 @@
-# ReduxSimpleStarter
+#### Author: Alexander Vikenfalk
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+#### About this project: 
+Just a code along based on the course: [modern react with redux](https://www.udemy.com/react-redux/learn/v4/overview "modern react with redux"). 
 
-### Getting Started
+#### Technologies used: 
+* **React.js** for making the nice UI.
+* **Redux** for state and data handling.
+* **Bootstrap** for keeping the design in place.
+* **CSS 3** for small design fixes.
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
+#### How to use this service ####
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/AlexanderVikenfalk/BlogApp.git
+> cd BlogApp
 > npm install
 > npm start
+> go to: http://localhost:8080/webpack-dev-server/
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+#### Screenshots ####
+![Screenshot](https://media.giphy.com/media/MSRylbrzLtR68imuBm/giphy.gif)
 
-```
-> npm install
-> npm start
-```
+### Get in contact with me ###
+[LinkedIn](https://de.linkedin.com/in/alexander-vikenfalk-6b993b42)
+
